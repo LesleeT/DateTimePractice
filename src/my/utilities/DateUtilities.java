@@ -20,21 +20,6 @@ import java.time.temporal.TemporalAdjusters;
 import java.util.Date;
 
 
-
-//ü Convert a LocalDateTime object to a formatted string
-//ü Convert a formatted string to a LocalDateTime object
-//ü Get the difference in some time unit between two dates, times or
-//both
-//ü Get a LocalDate or LocalDateTime object for a date or time in the
-//future, or in the past
-
-//ü For all of the above try to make these methods as flexible as
-//possible. For example, don’t hard code a format into the method.
-//Instead, figure out a way to let the user decide which format they
-//want to use. And don’t assume the user knows the technical
-//symbols used for formatting. Provide encapsulated options to
-//choose from.
-
 /**
  * A portable Date Time utility class using JDK 8
  * @version 1.0
